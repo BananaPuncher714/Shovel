@@ -1,0 +1,20 @@
+identifier: "jaw"
+base-name: "AutomaticWeapon"
+
+item:
+    material: GOLD_AXE
+    data: 0
+    
+bullet:
+    type: "rocket"
+    amount: 1
+    
+recoil: .8
+spray:
+    degree: 9
+    delay: 1000
+    bullet-recoil-degree: 0
+    bullet-recoil-delay: 1
+
+shoot-delay: 1500
+display-name: "J.A.W."

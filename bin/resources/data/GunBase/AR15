@@ -1,0 +1,20 @@
+identifier: "ar-15"
+base-name: "AutomaticWeapon"
+
+item:
+    material: IRON_HOE
+    data: 0
+    
+bullet:
+    type: "30_cal"
+    amount: 1
+    
+recoil: .05
+spray:
+    degree: 9
+    delay: 3000
+    bullet-recoil-degree: 4
+    bullet-recoil-delay: 1000
+
+shoot-delay: 100
+display-name: "AR-15"

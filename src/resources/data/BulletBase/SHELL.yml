@@ -1,0 +1,12 @@
+identifier: "shell"
+base-name: "StandardBullet"
+
+projectile-type: SmallFireball
+max-ticks: 100
+gravity: false
+damage: 3
+explosive:
+    enabled: true
+    power: 1
+
+speed: 3.5

@@ -1,0 +1,20 @@
+identifier: "bouncer"
+base-name: "AutomaticWeapon"
+
+item:
+    material: DIAMOND_HOE
+    data: 0
+    
+bullet:
+    type: "ricochet"
+    amount: 1
+    
+recoil: .02
+spray:
+    degree: 5
+    delay: 3000
+    bullet-recoil-degree: 0
+    bullet-recoil-delay: 1
+
+shoot-delay: 100
+display-name: "Nova"

@@ -1,0 +1,12 @@
+identifier: "30_cal"
+base-name: "StandardBullet"
+
+projectile-type: Snowball
+max-ticks: 60
+gravity: false
+damage: 5
+explosive:
+    enabled: false
+    power: 0
+
+speed: 3.5

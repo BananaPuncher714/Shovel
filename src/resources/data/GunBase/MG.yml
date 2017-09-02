@@ -1,0 +1,20 @@
+identifier: "machine_gun"
+base-name: "AutomaticWeapon"
+
+item:
+    material: IRON_SPADE
+    data: 0
+    
+bullet:
+    type: "30_cal"
+    amount: 1
+    
+recoil: .03
+spray:
+    degree: 18
+    delay: 2000
+    bullet-recoil-degree: 5
+    bullet-recoil-delay: 1000
+
+shoot-delay: 0
+display-name: "Machine Gun"

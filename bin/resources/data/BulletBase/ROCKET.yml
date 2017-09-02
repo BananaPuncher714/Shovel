@@ -1,0 +1,12 @@
+identifier: "rocket"
+base-name: "StandardBullet"
+
+projectile-type: Arrow
+max-ticks: 100
+gravity: false
+damage: 9
+explosive:
+    enabled: true
+    power: 3.9
+
+speed: 2

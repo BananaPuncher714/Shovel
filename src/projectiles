@@ -1,0 +1,10 @@
+shell:
+    base: StandardBullet
+    speed: 3.5
+    explosive: false
+    gravity: false
+rocket:
+    base: HomingBullet
+    speed: 2
+    explosive: true
+    gravity: false

@@ -1,0 +1,20 @@
+identifier: "nova"
+base-name: "AutomaticWeapon"
+
+item:
+    material: GOLD_SPADE
+    data: 0
+    
+bullet:
+    type: "shell"
+    amount: 8
+    
+recoil: .1
+spray:
+    degree: 20
+    delay: 1
+    bullet-recoil-degree: 2
+    bullet-recoil-delay: 1000
+
+shoot-delay: 800
+display-name: "Nova"

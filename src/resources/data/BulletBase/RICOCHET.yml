@@ -1,0 +1,13 @@
+identifier: "ricochet"
+base-name: "BouncingBullet"
+
+projectile-type: Snowball
+max-ticks: 60
+gravity: true
+damage: 2
+explosive:
+    enabled: false
+    power: 0
+
+max-bounces: 5
+bounce-reduction: .7

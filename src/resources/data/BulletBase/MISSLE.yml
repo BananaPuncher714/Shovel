@@ -1,0 +1,16 @@
+identifier: "missile"
+base-name: "HomingBullet"
+
+projectile-type: WitherSkull
+max-ticks: 100
+gravity: false
+damage: 9
+explosive:
+    enabled: true
+    power: 2.9
+
+speed: 2.5
+homing:
+    accuracy: .7
+    degree: 15
+    max-range: 75

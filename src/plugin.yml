@@ -1,0 +1,7 @@
+name: Shovel
+main: io.github.bananapuncher714.ShovelMain
+version: 0.1
+author: BananaPuncher714
+commands:
+    gun:
+        description: Shovel main command
